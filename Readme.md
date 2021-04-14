@@ -2,7 +2,7 @@
 
 The file 'party_tweets.csv' contains tweets and retweets from members of the US Congress. Each tweet is labeled with the congress member's party affiliation. The partys are Democrats and Republicans, Members of a third party were not included. Tweets were collected by pulling the last 40 tweets (retweets included) from each congress member's user timeline on 4/1/21. The goal for this repository is to predict the political party of a legislator based on the content they share online. It should be noted that these are official twitter accounts so the vast majority of the content posted is relevant to the user's political career. Models trained with this dataset may not be effective for predicting the party affiliation of non-political content, or political content from perspectives outside of the United States. 
 * Total tweets: 21181
-* Democrat Tweets (D): 10965
+* Democrat Tweets (D): 10956
 * Republican Tweets (R): 10225
 * Ratio: 52:48 D:R 
 
